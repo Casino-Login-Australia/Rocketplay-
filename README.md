@@ -10,6 +10,22 @@ Rocketplay Casino is a top-rated online gambling platform that caters specifical
 
 </a>
 
+| Category | Details |
+|----------|---------|
+| 📅 Established | 2021 |
+| 🔒 License | Curacao eGaming |
+| 💻 Platform | Web-based, Mobile-friendly |
+| 🎮 Game Providers | Evolution, Pragmatic Play, Play'n GO, NetEnt, and others |
+| 🎲 Game Types | Slots, Live Casino, Table Games, Instant Games |
+| 💳 Payment Methods | Visa, Mastercard, Bitcoin, Ethereum, Litecoin, Tether |
+| 💰 Min Deposit | 20 AUD |
+| 💸 Min Withdrawal | 20 AUD |
+| ⚡ Withdrawal Time | Crypto: Instant\nCards/Bank: 1-3 business days |
+| 🗣️ Languages | English, German, Polish, Russian |
+| 💬 Support | 24/7 Live Chat, Email |
+| ⭐ Special Features | VIP Program, Regular Tournaments, Crypto-friendly |
+
+
 ## Registration Process
 
 Signing up at Rocketplay Casino is a simple and straightforward process that takes only a few minutes. Follow these steps to create your account:
